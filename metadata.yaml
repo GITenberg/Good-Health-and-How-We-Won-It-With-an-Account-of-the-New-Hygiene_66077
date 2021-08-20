@@ -1,0 +1,32 @@
+_repo: Good-Health-and-How-We-Won-It-With-an-Account-of-the-New-Hygiene_66077
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Williams, Michael
+    gutenberg_agent_id: '53627'
+    url: http://www.gutenberg.org/2009/agents/53627
+  - agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2021-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Good Health and How We Won It
+
+  With an Account of the New Hygiene'
+url: http://www.gutenberg.org/ebooks/66077
