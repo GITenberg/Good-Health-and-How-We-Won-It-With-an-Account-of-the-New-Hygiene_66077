@@ -1,5 +1,8 @@
 _repo: Good-Health-and-How-We-Won-It-With-an-Account-of-the-New-Hygiene_66077
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66077-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Williams, Michael
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66077#Good-Health-and-How-We-Won-It-With-an-Account-of-the-New-Hygiene
 gutenberg_issued: '2021-08-17'
 gutenberg_type: Text
 identifiers:
